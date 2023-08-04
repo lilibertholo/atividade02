@@ -1,1 +1,3 @@
-document.addEventListener( "click" , trocaCor );
+function botao() {
+    document.body.style.backgroundColor = 'purple';
+}
